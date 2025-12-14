@@ -1,5 +1,5 @@
 {
-    "webhook_url": "put your webhook url",
+    "webhook_url": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "capture_interval": 300,
     "image_quality": 85,
     "max_captures": 0,
