@@ -1,0 +1,20 @@
+{
+    "webhook_url": "put your webhook url",
+    "capture_interval": 300,
+    "image_quality": 85,
+    "max_captures": 0,
+    "save_locally": true,
+    "local_save_path": "auto_captures",
+    "compress_images": true,
+    "max_image_size_mb": 8,
+    "embed_color": 15158332,
+    "include_timestamp": true,
+    "include_system_info": true,
+    "capture_location": true,
+    "location_service": "ipapi",
+    "location_timeout": 5,
+    "start_delay": 10,
+    "log_level": "INFO",
+    "run_forever": true,
+    "auto_start": true
+}
