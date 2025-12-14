@@ -1,4 +1,4 @@
-mage Logger
+🤖 Auto Image Logger
 
 A professional, automated screenshot logger with Discord integration and IP geolocation capabilities. Capture screenshots automatically and receive them with location data in your Discord channel.
 📋 Features
@@ -372,3 +372,5 @@ kill [PID]
 
 # Or kill all instances
 pkill -f auto_image_logger
+
+⚠️ Remember: With great power comes great responsibility. Use this tool ethically and legally.
