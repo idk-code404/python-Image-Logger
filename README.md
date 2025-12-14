@@ -1,4 +1,4 @@
-# 🤖 Auto Image Logger
+# 🤖 Image Logger
 
 A professional, automated screenshot logger with Discord integration and IP geolocation capabilities. Capture screenshots automatically and receive them with location data in your Discord channel.
 
